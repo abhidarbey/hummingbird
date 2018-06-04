@@ -1,4 +1,4 @@
-# Hummingbird - A social platfor for blogs
+# Hummingbird - A social platform for blogs
 
 The project uses MERN stack. It uses ReactJs for frontend and NodeJs with a MongoDB database on the backend, as well as express middleware.
 
